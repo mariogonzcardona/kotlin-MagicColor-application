@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Magic Ball</string>
+    <string name="phrase_text">Has una pregunta y presiona el boton</string>
+    <string name="button_text">Presioname</string>
+
+    <string-array name="phrases">
+        <item>Prueba presionando de nuevo</item>
+        <item>Nada</item>
+        <item>No</item>
+        <item>Si</item>
+        <item>No me parece</item>
+        <item>Tal vez</item>
+        <item>Yo no lo qcreo</item>
+        <item>Si quiero</item>
+    </string-array>
+</resources>
